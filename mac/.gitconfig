@@ -1,0 +1,17 @@
+[color]
+	ui = auto
+	diff = auto
+	status = auto
+	branch = auto
+	log = auto
+[user]
+	name = WenHan Gu
+	email = wenhan.gu@gmail.com
+#[http]
+#	sslVerify = false
+#	postBuffer = 524288000  # 500MB
+#	proxy = http://pc0909211214:8080
+#[review "https://cit-review.mediatek.inc/"]
+#  username = mtk03872   # For repo upload
+#[push]
+#	default = simple

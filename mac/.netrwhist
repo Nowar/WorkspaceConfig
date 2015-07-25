@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/nobackup/mtk03872/works/aosp/ndk/platforms/android-9/arch-arm/usr/include/asm'
+let g:netrw_dirhist_2='/nobackup/mtk03872/works/aosp-mtk/system/core/libcorkscrew/arch-aarch64'
+let g:netrw_dirhist_3='/nobackup/mtk03872/works/aosp/development/ndk/platforms/android-9/arch-arm/symbols'
+let g:netrw_dirhist_4='/nobackup/mtk03872/works/toolchain/llvm/tools/le32-none-ndk-translate'
+let g:netrw_dirhist_5='/nobackup/mtk03872/works/aosp/ndk/toolchains/aarch64-linux-android-clang3.4'
+let g:netrw_dirhist_6='/nobackup/mtk03872/works/gcc/libgcc'
+let g:netrw_dirhist_7='/Users/nowar100/.git'
